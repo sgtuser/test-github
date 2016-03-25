@@ -33,6 +33,11 @@
     NSLog(@"sfljij");
     NSLog(@"sfljij");
     
+    
+    for (int i = 0; i < 10; i ++) {
+        NSLog(@"hhhhh");
+    }
+    
 }
 
 - (void)didReceiveMemoryWarning {
